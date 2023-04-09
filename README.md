@@ -19,4 +19,6 @@ The next segment carries the code of internal evaluation using K-fold cross-eval
 
 All you need is either a online notebook editor like Google colab, Jupyter, Kaggle kernel or any online kernel notebooks which is able to execute python code. Else, you can download the trials_toxic.ipynb file as provided and then run it through applications like VisualStudioCode, Pycharm or any coding applications supporting python code execution.
 
+Else, you could just open the code and click on the option Open Colab which will automatically run the code in Google Colab to execute the code.
+
 
